@@ -1,4 +1,4 @@
-(ns tuto2.test1
+(ns com.iraqidata.tasks.day-one
  (:require [clj-time.core :as time]
            [clj-time.local :as local]))
 
